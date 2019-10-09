@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/russellchristopher0070/russellchristopher/_apis/build/status/russellchristopherconduentcom.Apppipelines?branchName=master)](https://dev.azure.com/russellchristopher0070/russellchristopher/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
